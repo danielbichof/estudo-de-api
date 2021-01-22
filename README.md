@@ -1,6 +1,7 @@
 ## To get start just run
-<code>npm start</code>
+
 <p>then</p>
-<code>npx lite-server</code>
+```npm start ```
+```npx lite-server```
 <p>or</p>
 <h3>open the live server at index.html</h3>
