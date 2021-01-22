@@ -1,4 +1,4 @@
-## To get start just run
+## To get start just...
 ### 🎲 Run Back End 
 
 # Clone este repositório
@@ -18,8 +18,8 @@ $ npm start
 $ npx lite-server
 ```
 
-# or
-## open the 'live server' in index.html
+## or
+### open the 'live server' in index.html
 
-## the return should be a list of names and emails (fake) something very simple, but the focus of this project is to consume and serve an API
+### the return should be a list of names and emails (fake) something very simple, but the focus of this project is to consume and serve an API
 
