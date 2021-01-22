@@ -1,7 +1,8 @@
 ## To get start just run
+### 🎲 Rodando o Back End (servidor)
 
-<p>then</p>
-´´´npm start´´´
-```npx lite-server```
-<p>or</p>
-<h3>open the live server at index.html</h3>
+```
+# Clone este repositório
+$ git clone <https://github.com/tgmarinho/nlw1>
+```
+
