@@ -11,7 +11,7 @@ $ npm start
 
 ```
 
-# 🎲 Run front-end
+### 🎲 Run front-end
 ```
 ## run
 $ npx lite-server
