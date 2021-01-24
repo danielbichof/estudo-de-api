@@ -1,19 +1,17 @@
-## To get start just run
-### 🎲 Run Back End 
+## To get start just
 
 # Clone este repositório
 ```
 $ git clone https://github.com/Daniel-Bichof/estudo-de-api.git
 ```
-## run
+### 🎲 Run Back End 
+
 ```
 $ npm start
 ```
 
 ### 🎲 Run front-end
 
-
-## run
 ```
 $ npx lite-server
 ```
