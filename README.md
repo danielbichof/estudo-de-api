@@ -11,10 +11,13 @@ $ npm start
 ```
 
 ### 🎲 Run front-end
+### first...
+### enter the "views" folder
 
 ```
 $ npx lite-server
 ```
+
 
 ## or
 ### open the 'live server' in index.html
