@@ -13,7 +13,7 @@ $ npm start
 ### 🎲 Run front-end
 
 ### first...
-### enter the "views" folder, then
+### enter the "views" folder, then run
 
 ```
 $ npx lite-server
